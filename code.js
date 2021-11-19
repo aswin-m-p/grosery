@@ -81,7 +81,7 @@ function edit(obj, label) {
   }
 
   
-  document.getElementById("deo").innerHTML=10-count;
+  // document.getElementById("deo").innerHTML=10-count;
   document.getElementById("remain").innerHTML="Remaining Items";
 
   
