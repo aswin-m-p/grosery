@@ -8,7 +8,7 @@ function load() {
         "" +
         "<table>" +
         "<caption>" +
-        "Grocery List" +
+        "Grocery Items" +
         "</caption>" +
         "<tr>" +
         "<th>" +
